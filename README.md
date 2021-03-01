@@ -1,12 +1,20 @@
 # Title
 
 ## Description
+Working with SAP Business Application Studio and HANA Cloud - Basics
+Lession 1 : Working with GIT and building tables and roles
+Lession 2 : Loading data and accessing remote resources
+Lession 3 : Building Calculation Views to retieve the data
 
 ## Requirements
+Trial account for SAP HANA Cloud and a Business Application Studin with the HANA schema
+Account at GitHub.com
 
 ## Download and Installation
+Samples can be download from this repository
 
 ## Known Issues
+n/a
 
 ## How to obtain support
 
@@ -15,6 +23,7 @@
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
 ## Contributing
+If you wish to contribute code, offer fixes or improvements, please send a pull request (PR). Due to legal reasons, contributors will be asked to accept a Developer Certificate of Origin (DCO) on submitting their first PR to this project. This DCO acceptance can be done in the PR itself - look out for the CLA assistant that will guide you through the simple process. SAP uses the standard DCO text of the Linux Foundation.
 
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
