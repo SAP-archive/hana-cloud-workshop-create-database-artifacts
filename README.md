@@ -10,6 +10,10 @@ Learn with our experts Volker Saggau and Jan Zwickel in this hands-on workshop h
 - Session 2 : How to build up a federated scenario ([Watch the session](https://event.on24.com/wcc/r/2994567/D70E75A68531C0C018088D4DF7AECAAD) | [Download the Workbook](https://saphanajourney.com/202103_hc_workshop_session-02_workbook/))
 - Session 3 : How to use calculation views in a federated scenario ([Watch the session](https://event.on24.com/wcc/r/2994599/51636D7C4A893B5887ED9B82256009F5) | [Download the Workbook](https://saphanajourney.com/202103_hc_workshop_session-03_workbook/))
 
+## The contents of this repository
+In this repository, you can find code snippets for each of the workshop sessions in .txt files.
+For session 2, you are asked to import sample data to your SAP HANA Cloud, HANA database. You can find the sample data in the file BASKETANALYSIS_ALL.tar.gz. Download the file to your local machine and import it to your database using the SAP HANA Database Explorer. See more detailed instructions in the workbook.
+
 ## Requirements
 Here is what you need to prepare before the workshop starts to be able to follow along:
 - [Sign-up](https://www.sap.com/cmp/td/sap-hana-cloud-trial.html) for the SAP HANA Cloud trial. We recommend using the US-based server for this workshop.
