@@ -12,7 +12,7 @@ Learn with our experts Volker Saggau and Jan Zwickel in this hands-on workshop h
 
 ## The contents of this repository
 In this repository, you can find code snippets for each of the workshop sessions in .txt files.
-For session 2, you are asked to import sample data to your SAP HANA Cloud, HANA database. You can find the sample data in the file BASKETANALYSIS_ALL.tar.gz. Download the file to your local machine and import it to your database using the SAP HANA Database Explorer. See more detailed instructions in the workbook.
+For session 2, you are asked to import sample data to your SAP HANA Cloud, HANA database. You can find the sample data in the file basketanalysisdataCSVCombined.tar.gz. Download the file to your local machine and import it to your database using the SAP HANA Database Explorer. Please refer to the workbooks for more detailed instructions.
 
 ## Requirements
 Here is what you need to prepare before the workshop starts to be able to follow along:
