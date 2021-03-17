@@ -23,7 +23,7 @@ Here is what you need to prepare before the workshop starts to be able to follow
 
 
 ## Download and Installation
-Samples can be downloaded from this repository.
+Code and Sample data can be downloaded from this repository or cloned to a development project in SAP Business Application Studio.
 
 ## Known Issues
 n/a
