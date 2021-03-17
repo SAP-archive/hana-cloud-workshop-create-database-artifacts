@@ -6,9 +6,9 @@ This repository provides additional material for the SAP HANA Cloud Workshop Ser
 
 Learn with our experts Volker Saggau and Jan Zwickel in this hands-on workshop how to create and optimize calculation views in SAP Business Application Studio in a federated scenario using data from SAP HANA Cloud. Follow along this workshop with your own trial account and get help from our experts during the event. Alternatively, catch-up by watching the recordings on-demand.
 
-- Session 1 : How to set up an environment and define data structures [Watch the session](https://event.on24.com/wcc/r/2994543/4443FFD69753CC39170BEA7E2037CF62) [Download the Workbook](https://saphanajourney.com/202103_hc_workshop_session-01_workbook/)
-- Session 2 : How to build up a federated scenario [Watch the session](https://event.on24.com/wcc/r/2994567/D70E75A68531C0C018088D4DF7AECAAD) [Download the Workbook](https://saphanajourney.com/202103_hc_workshop_session-02_workbook/)
-- Session 3 : How to use calculation views in a federated scenario [Watch the session](https://event.on24.com/wcc/r/2994599/51636D7C4A893B5887ED9B82256009F5) [Download the Workbook](https://saphanajourney.com/202103_hc_workshop_session-03_workbook/)
+- Session 1 : How to set up an environment and define data structures ([Watch the session](https://event.on24.com/wcc/r/2994543/4443FFD69753CC39170BEA7E2037CF62) | [Download the Workbook](https://saphanajourney.com/202103_hc_workshop_session-01_workbook/))
+- Session 2 : How to build up a federated scenario ([Watch the session](https://event.on24.com/wcc/r/2994567/D70E75A68531C0C018088D4DF7AECAAD) | [Download the Workbook](https://saphanajourney.com/202103_hc_workshop_session-02_workbook/))
+- Session 3 : How to use calculation views in a federated scenario ([Watch the session](https://event.on24.com/wcc/r/2994599/51636D7C4A893B5887ED9B82256009F5) | [Download the Workbook](https://saphanajourney.com/202103_hc_workshop_session-03_workbook/))
 
 ## Requirements
 Here is what you need to prepare before the workshop starts to be able to follow along:
