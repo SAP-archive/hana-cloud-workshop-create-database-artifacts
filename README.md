@@ -1,8 +1,7 @@
-# SAP HANA Cloud Workshop Repository: Creating database objects in SAP HANA Cloud with SAP Business Application Studio
-
+# SAP HANA Cloud Workshop Repository: Creating Database Objects in SAP HANA Cloud with SAP Business Application Studio
 
 ## Description
-This repository provides additional material for the SAP HANA Cloud Workshop Series "Creating database objects in SAP HANA Cloud with SAP Business Application Studio". 
+This repository provides additional material for the SAP HANA Cloud Workshop series "Creating database objects in SAP HANA Cloud with SAP Business Application Studio". 
 
 Learn with our experts Volker Saggau and Jan Zwickel in this hands-on workshop how to create and optimize calculation views in SAP Business Application Studio in a federated scenario using data from SAP HANA Cloud. Follow along this workshop with your own trial account and get help from our experts during the event. Alternatively, catch-up by watching the recordings on-demand.
 
@@ -10,7 +9,7 @@ Learn with our experts Volker Saggau and Jan Zwickel in this hands-on workshop h
 - Session 2 : How to build up a federated scenario ([Watch the session](https://event.on24.com/wcc/r/2994567/D70E75A68531C0C018088D4DF7AECAAD) | [Download the Workbook](https://saphanajourney.com/202103_hc_workshop_session-02_workbook/))
 - Session 3 : How to use calculation views in a federated scenario ([Watch the session](https://event.on24.com/wcc/r/2994599/51636D7C4A893B5887ED9B82256009F5) | [Download the Workbook](https://saphanajourney.com/202103_hc_workshop_session-03_workbook/))
 
-## The contents of this repository
+## Contents of this Repository
 In this repository, you can find code snippets for each of the workshop sessions in .txt files.
 
 For session 2, you are asked to import sample data to your SAP HANA Cloud, HANA database. 
