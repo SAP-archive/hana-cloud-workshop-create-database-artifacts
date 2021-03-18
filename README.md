@@ -1,4 +1,5 @@
 # SAP HANA Cloud Workshop Repository: Creating Database Objects in SAP HANA Cloud with SAP Business Application Studio
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-cloud-workshop-create-database-artifacts)](https://api.reuse.software/info/github.com/SAP-samples/hana-cloud-workshop-create-database-artifacts)
 
 ## Description
 This repository provides additional material for the SAP HANA Cloud Workshop series "Creating database objects in SAP HANA Cloud with SAP Business Application Studio". 
@@ -43,5 +44,3 @@ If you wish to contribute code, offer fixes or improvements, please send a pull 
 
 ## License
 Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
-
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-cloud-workshop-create-database-artifacts)](https://api.reuse.software/info/github.com/SAP-samples/hana-cloud-workshop-create-database-artifacts)
