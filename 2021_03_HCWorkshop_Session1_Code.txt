@@ -2,7 +2,7 @@
 -- general prep for each BAS environment only once
 
 git config --global user.email "<YOUR@EMAIL.com>"
-git config --gloabal user.name "<GITUSERNAME>"
+git config --global user.name "<GITUSERNAME>"
 git config --list
 
 --1-establish SSH connection to git (paste these commands in the BAS Terminal)
