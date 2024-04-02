@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
 # SAP HANA Cloud Workshop Repository: Creating Database Objects in SAP HANA Cloud with SAP Business Application Studio
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-cloud-workshop-create-database-artifacts)](https://api.reuse.software/info/github.com/SAP-samples/hana-cloud-workshop-create-database-artifacts)
 
